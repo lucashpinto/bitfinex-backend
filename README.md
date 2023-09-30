@@ -47,7 +47,7 @@ Then just run index.js using Node.
 For each Peer that you want to connect to the network:
 
 ```
-node index.js
+node src/index.js
 ```
 
 Then, every 5 seconds a new order will be added by each Peer and you can see the processing of the orders in the console.
